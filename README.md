@@ -46,11 +46,11 @@ Models were trained to handle class imbalance (73% non-churn vs. 27% churn). Bec
 
 ## 💡 Key Strategic Recommendations
 
-* 1. Targeted Contract Upgrades: Offer targeted $5/month billing credits to month-to-month subscribers before month 6 to convert them into 1-Year locked contracts.
+* **Targeted Contract Upgrades:** Offer targeted $5/month billing credits to month-to-month subscribers before month 6 to convert them into 1-Year locked contracts.
 
-* 2. Automated Payment Migration: Incentivize customers on manual Electronic Check payments with a one-time credit to transition to automatic ACH bank transfers or credit card billing.
+* **Automated Payment Migration:** Incentivize customers on manual Electronic Check payments with a one-time credit to transition to automatic ACH bank transfers or credit card billing.
 
-* 3. Fiber Optic Support Bundling: Automatically bundle 90 days of complimentary Tech Support with new Fiber Optic installations to reduce high early-tenure drop-off.
+* **Fiber Optic Support Bundling:** Automatically bundle 90 days of complimentary Tech Support with new Fiber Optic installations to reduce high early-tenure drop-off.
 
 ---
 
